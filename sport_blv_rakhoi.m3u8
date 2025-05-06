@@ -1,0 +1,98 @@
+#EXTM3U
+
+Số kênh hiện tại: 45
+List hoạt động tốt trên ứng dụng TiviMate và DL Tivi
+
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Bịp
+http://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Cay
+http://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Chuối
+http://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Cỏ
+http://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Độ
+http://ckcdn.livestreameuro.live/live/dohd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Heo
+http://ckcdn.livestreameuro.live/live/heohd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Lôi
+http://ckcdn.livestreameuro.live/live/loihd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Lú
+http://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/IaOaV2v.png",BLV Giàng A Lử
+http://ckcdn.livestreameuro.live/live/luhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Páo
+http://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/IaOaV2v.png",BLV Giàng A Phò
+http://ckcdn.livestreameuro.live/live/cakhiahd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Sún
+http://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Giàng A Táo
+http://ckcdn.livestreameuro.live/live/taohd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV H+
+http://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Thợ Lặn
+http://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="RaKhơiTV" tvg-logo="https://i.imgur.com/p9cfVLq.png",BLV Thợ Xây
+http://ckcdn.livestreameuro.live/live/thoxayhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Bát Giới (Giàng A Mõm)
+http://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Bạch Long Mã
+http://qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Dương Tiễn
+http://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Đường Tăng (Giàng A Phủ)
+http://qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Hồng Hài Nhi
+http://qtcdn.livestreameuro.live/live/honghainhihd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Na Tra
+http://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Ngộ Không (Giàng A Phang)
+http://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8|Referer=http://playerlive.xyz/
+#EXTINF:-1 group-title="QuayTayTV" tvg-logo="https://i.imgur.com/BC0HeZd.png",BLV Ngưu Ma Vương
+http://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8|Referer=http://playerlive.xyz/
+
+#EXTINF:-1 group-title="Rung90TV" tvg-logo="https://i.imgur.com/wWzUKft.png",BLV Beck
+http://stream-1.team4pro.site/live/_definst_/stream_9_ad7ab078@beckhd1/chunklist.m3u8|Referer=https://r90-stream-source.team4pro.site/
+#EXTINF:-1 group-title="Rung90TV" tvg-logo="https://i.imgur.com/wWzUKft.png",BLV Huda
+http://stream-1.team4pro.site/live/_definst_/stream_9_ad7ab078@hudahd1/chunklist.m3u8|Referer=https://r90-stream-source.team4pro.site/
+#EXTINF:-1 group-title="Rung90TV" tvg-logo="https://i.imgur.com/wWzUKft.png",BLV Ken
+http://stream-1.team4pro.site/live/_definst_/stream_9_ad7ab078@kenhd1/chunklist.m3u8|Referer=https://r90-stream-source.team4pro.site/
+#EXTINF:-1 group-title="Rung90TV" tvg-logo="https://i.imgur.com/wWzUKft.png",BLV Larue
+http://stream-1.team4pro.site/live/_definst_/stream_9_ad7ab078@laruehd1/chunklist.m3u8|Referer=https://r90-stream-source.team4pro.site/
+#EXTINF:-1 group-title="Rung90TV" tvg-logo="https://i.imgur.com/wWzUKft.png",BLV Loki
+http://stream-1.team4pro.site/live/_definst_/stream_9_ad7ab078@lokihd1/chunklist.m3u8|Referer=https://r90-stream-source.team4pro.site/
+#EXTINF:-1 group-title="Rung90TV" tvg-logo="https://i.imgur.com/wWzUKft.png",BLV Thanos
+http://stream-1.team4pro.site/live/_definst_/stream_9_ad7ab078@thanoshd1/chunklist.m3u8|Referer=https://r90-stream-source.team4pro.site/
+
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 1
+https://voz.ee/s/01qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 2
+https://voz.ee/s/02qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 3
+https://voz.ee/s/03qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 4
+https://voz.ee/s/04qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 5
+https://voz.ee/s/05qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 6
+https://voz.ee/s/06qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 7
+https://voz.ee/s/07qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 8
+https://voz.ee/s/08qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 9
+https://voz.ee/s/09qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 10
+https://voz.ee/s/10qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 11
+https://voz.ee/s/11qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 12
+https://voz.ee/s/12qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 13
+https://voz.ee/s/13qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 14
+https://voz.ee/s/14qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="ThửNghiệm",Thử Nghiệm 15
+https://voz.ee/s/15qxhz5fbn3uk879vpwedrac|Referer=https://g.zoomplayer.xyz/
