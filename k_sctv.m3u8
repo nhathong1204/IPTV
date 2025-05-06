@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1, K+ CINE
+https://truyenhinh.click/kcinehd
+#EXTINF:-1, K+ ACTION
+https://truyenhinh.click/kactionhd
+#EXTINF:-1, K+ SPORT1
+https://truyenhinh.click/ksport1hd
+#EXTINF:-1, K+ SPORT2
+https://truyenhinh.click/ksport2hd
+#EXTINF:-1, K+ KIDS
+https://truyenhinh.click/kkidshd
+
+#EXTINF:-1, SCTV15
+https://truyenhinh.click/SCTV15HD
+#EXTINF:-1, SCTV17
+https://truyenhinh.click/SCTV17HD
+#EXTINF:-1, SCTV22
+https://truyenhinh.click/SCTV22HD
+
+#EXTINF:-1, ON Sports
+https://truyenhinh.click/vtvcab3
+#EXTINF:-1, ON Sports+
+https://truyenhinh.click/vtvcab6
+#EXTINF:-1, ON Football
+https://truyenhinh.click/vtvcab16
+#EXTINF:-1, ON Sports News
+https://truyenhinh.click/vtvcab18
