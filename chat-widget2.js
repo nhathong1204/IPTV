@@ -781,11 +781,8 @@
                 userInfoResponseData[0].output : userInfoResponseData.output;
             botMessage.innerHTML = linkifyText(messageText);
             messagesContainer.appendChild(botMessage);
-            
+
             // Add sample questions if configured
-            if (settings.suggestedQuestions && Array.isArray(settings.suggestedQuestions) && settings.suggestedQuestions.length > 0) {
-                const suggestedQuestionsContainer
-                // Add sample questions if configured
             if (settings.suggestedQuestions && Array.isArray(settings.suggestedQuestions) && settings.suggestedQuestions.length > 0) {
                 const suggestedQuestionsContainer = document.createElement('div');
                 suggestedQuestionsContainer.className = 'suggested-questions';
